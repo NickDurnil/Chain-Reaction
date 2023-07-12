@@ -43,11 +43,14 @@ li a.active {
     color: white;
 }
 
-.row {
-    display: flex;
+.backgroundPlate {
     background-color: whitesmoke;
     border-radius: 25px;
     padding: 5px;
+}
+
+.row {
+    display: flex;
 }
   
 /* Create two equal columns that sits next to each other */
